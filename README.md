@@ -6,7 +6,7 @@
 ### 프로젝트 개요
 FocusGuardian은 사용자의 **웹캠 영상에서 집중 여부를 감지**하고,
 집중이 흐트러지면 즉시 **알림(Popup)** 으로 경고 메시지를 띄워주는 시스템입니다.
-또한, **뽀모도로 학습법**을 기반으로 한 시간 관리 기능을 통해
+또한, 뽀모도로 학습법을 기반으로 한 시간 관리 기능을 통해
 사용자의 학습 효율과 몰입도를 향상시키는 것을 목표로 합니다.
 
 ### 프로젝트 목표
@@ -20,7 +20,7 @@ FocusGuardian은 사용자의 **웹캠 영상에서 집중 여부를 감지**하
 | ----------------- | ------------------------------------------------ |
 | **Frontend**      | React                                            |
 | **Backend**       | Flask / FastAPI                                  |
-| **AI 모델**        | MediaPipe (FaceMesh, Iris), OpenCV, Hugging Face |
+| **AI Model**        | MediaPipe (FaceMesh, Iris), OpenCV, Hugging Face |
 | **Database**      | SQLite 또는 Firebase                              |
 | **Visualization** | Chart.js, Recharts                               |
 | **AI Feedback**   | LangChain + Gemini API                           |
